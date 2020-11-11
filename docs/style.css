@@ -440,7 +440,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "ponte en contacto";
+    content: "contacto";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
